@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="send_otp_blue">#156BB3</color>
+    <color name="send_otp_blue_dark">#06599e</color>
+    <color name="sendotp_grey">#636363</color>
+    <color name="sendotp_medium_grey">#B0B0B0</color>
+    <color name="sendotp_light_grey">#D9D9D9</color>
+    <color name="colorPrimary">#090C41</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="gradient_start">#6A0681</color>
+    <color name="gradient_end">#A50D42</color>
+</resources>
